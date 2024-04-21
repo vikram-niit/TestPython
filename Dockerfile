@@ -1,4 +1,4 @@
-FROM python@latest
+FROM python:latest
 
 LABEL MAINTAINER="test"
 
